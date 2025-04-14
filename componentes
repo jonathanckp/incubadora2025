@@ -3,7 +3,5 @@
 2.	LM35: Sensor de temperatura para el control preciso del PID.
 3.	DHT22: Sensor para medir la humedad y temperatura del ambiente.
 4.	Relé de Estado Sólido (SSR): Para controlar la resistencia de calentamiento.
-5.	Relé para Volteo: Mecanismo que gira los huevos para evitar que el embrión se adhiera a la cáscara.
-6.	Relé para Humidificación: Controla un sistema de humidificación para mantener el nivel adecuado de humedad.
 7.	Pantalla LCD (I2C): Para mostrar la información actual de temperatura, humedad y parámetros del sistema.
 8.	Botones de Configuración: Permiten ajustar el Setpoint de temperatura, parámetros del PID y tiempos de volteo.
